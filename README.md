@@ -1,3 +1,3 @@
 Source code for a super simple webserver.
 
-    Python SimpleHTTPServer -m 8009
+    python3 -m http.server 9000 
